@@ -56,19 +56,19 @@
 ## Диаграммы ##
 
 ## ER-диаграмма (логический уровень) ##
-![ERD](erd_logical.png)
+![ERD](artifacts/erd_logical.png)
 
 ## DFD (контекстная) ##
-![DFD](dfd_context.png)
+![DFD](artifacts/dfd_context.png)
 
 ## DFD (логическая - уровень "0") ##
-![DFD](dfd_log_0_level.png)
+![DFD](artifacts/dfd_log_0_level.png)
 
 ## DFD (логическая - уровень "1" - детализация процесса "Управлять устройством") ##
-![DFD](dfd_log_1_level.png)
+![DFD](artifacts/dfd_log_1_level.png)
 
 ## DFD (логическая - уровень "2" - детализация процесса "Добавить устройство") ##
-![DFD](dfd_log_2_level.png)
+![DFD](artifacts/dfd_log_2_level.png)
 
 ## Результаты
 - Выявлены и задокументированы требования на основе анализа интервью с заказчиком и пользователями
